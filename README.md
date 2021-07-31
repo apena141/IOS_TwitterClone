@@ -26,7 +26,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/apena141/IOS_TwitterClone/blob/main/twitterDemo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/apena141/IOS_TwitterClone/blob/main/twitterDemo.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
 Time spent: **5** hours spent in total
 
@@ -49,5 +49,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/apena141/IOS_TwitterClone/blob/main/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/apena141/IOS_TwitterClone/blob/main/walkthrough.gif' title='Video Walkthrough' width='500' alt='Video Walkthrough' />
 
