@@ -84,7 +84,9 @@ class HomeTableTableViewController: UITableViewController {
         cell.profileImageView.af_setImage(withURL: profileImageUrl!)
         cell.twitterHandleLabel.text = user["name"] as? String
         cell.tweetBody.text = tweetArray[indexPath.row]["text"] as? String
-        
+        cell.setFavorite(tweetArray[indexPath.row]["favorited"] as! Bool)
+        cell.tweetId = tweetArray[indexPath.row]["id"] as! Int
+        cell.setRetweeted(tweetArray[indexPath.row]["retweeted"] as! Bool)
         return cell
     }
     
